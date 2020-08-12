@@ -1,15 +1,13 @@
 <template>
-  <div id="app">
-
-  </div>
+  
 </template>
 
 <script>
   export default {
-    name: "App",
+    name: "InedxNav"
   }
 </script>
 
-<style>
+<style scoped>
 
 </style>
